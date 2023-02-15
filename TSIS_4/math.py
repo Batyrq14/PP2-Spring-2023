@@ -13,7 +13,7 @@ height = int(input())
 b1 = int(input())
 b2 = int(input())
 
-area = 0.5 * (base1 + base2) * height
+area = 0.5 * (b1 + b2) * height
 
 print(area)
 
